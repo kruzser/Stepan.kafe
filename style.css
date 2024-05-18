@@ -1,0 +1,57 @@
+.kafe{
+    color: rgb(0, 153, 255);
+    text-align: center;
+}
+header{
+    background-color: rgb(4, 255, 0);
+}
+.mi{
+    text-align: center;
+    color: rgb(255, 85, 39);
+}
+body{
+    background-color: rgb(243, 255, 166);
+}
+.im{
+    text-align: center;
+     border: 1px solid navy;
+    border-radius: 15px;
+    background-color: rgb(255, 80, 214);
+}
+.im:hover{
+   
+    box-shadow: rgb(105, 0, 134) 0px 5px 5px 5px ;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 157, 157);
+}
+img{
+    width: 700px;
+    height:600px;
+}
+.otzivi{
+    color: darkorange;
+}
+.drink{
+    width: 209px;
+}
+.div{
+    display: flex;
+    justify-content: center;
+}
+.duv{
+    display: flex;
+    justify-content: center;
+}
+.red{
+   
+    position: absolute;
+    right: 340px;
+    text-align: center;
+    color: rgb(255, 0, 242);
+    border: dotted;
+    width: 150px;
+}
+
+
